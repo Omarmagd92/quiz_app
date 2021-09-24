@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717182735363",
+    "project_id": "coursefluuter",
+    "storage_bucket": "coursefluuter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717182735363:android:9d27ef738ed5487e2b6a36",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717182735363-8v01gg9uuelmel44r5s9hie1r4orid5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "91674d2ca7e2f47f2e3ce29cc894ace1ab3c0c1f"
+          }
+        },
+        {
+          "client_id": "717182735363-9ab94pjjnmc6m772ill7bi6mgpde3igl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSzdZ-sOXWAV85jV0t3uBbW84jpgXfLvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717182735363-9ab94pjjnmc6m772ill7bi6mgpde3igl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
